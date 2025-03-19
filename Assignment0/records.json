@@ -1,0 +1,126 @@
+{
+    "university": "Jadavpur University",
+    "students": [
+        {
+            "roll": "001",
+            "name": "Swapna Moy",
+            "phone": "9876543210",
+            "dept": "D001",
+            "address": "123, Park Street, Kolkata",
+            "city": "Kolkata",
+            "state": "West Bengal"
+        },
+        {
+            "roll": "002",
+            "name": "Abhinandan",
+            "phone": "8765432109",
+            "dept": "D002",
+            "address": "456, MG Road, Durgapur",
+            "city": "Durgapur",
+            "state": "West Bengal"
+        },
+        {
+            "roll": "003",
+            "name": "Abrar",
+            "phone": "7654321098",
+            "dept": "D003",
+            "address": "789, Salt Lake, Kolkata",
+            "city": "Kolkata",
+            "state": "West Bengal"
+        },
+        {
+            "roll": "004",
+            "name": "Shahir",
+            "phone": "6543210987",
+            "dept": "D004",
+            "address": "321, Rajarhat, Kolkata",
+            "city": "Kolkata",
+            "state": "West Bengal"
+        },
+        {
+            "roll": "005",
+            "name": "Masud",
+            "phone": "5432109876",
+            "dept": "D005",
+            "address": "654, Howrah Bridge, Howrah",
+            "city": "Howrah",
+            "state": "West Bengal"
+        },
+        {
+            "roll": "006",
+            "name": "Azim",
+            "phone": "4321098765",
+            "dept": "D001",
+            "address": "987, Dumdum, Kolkata",
+            "city": "Kolkata",
+            "state": "West Bengal"
+        },
+        {
+            "roll": "007",
+            "name": "Soumyodeep",
+            "phone": "3210987654",
+            "dept": "D002",
+            "address": "135, BBD Bagh, Kolkata",
+            "city": "Kolkata",
+            "state": "West Bengal"
+        },
+        {
+            "roll": "008",
+            "name": "Sidhdhart",
+            "phone": "2109876543",
+            "dept": "D003",
+            "address": "864, Jadavpur, Kolkata",
+            "city": "Kolkata",
+            "state": "West Bengal"
+        },
+        {
+            "roll": "009",
+            "name": "Akshat",
+            "phone": "1098765432",
+            "dept": "D004",
+            "address": "753, Sealdah, Kolkata",
+            "city": "Kolkata",
+            "state": "West Bengal"
+        },
+        {
+            "roll": "010",
+            "name": "Jeetesh",
+            "phone": "0987654321",
+            "dept": "D005",
+            "address": "987, Newtown, Kolkata",
+            "city": "Kolkata",
+            "state": "West Bengal"
+        },
+        {
+            "roll": "011",
+            "name": "Subham",
+            "phone": "9876501234",
+            "dept": "D002",
+            "address": "369, Ballygunge, Kolkata",
+            "city": "Kolkata",
+            "state": "West Bengal"
+        }
+    ],
+    "departments": [
+        {
+            "code": "D001",
+            "name": "Computer Science"
+        },
+        {
+            "code": "D002",
+            "name": "Electrical Engineering"
+        },
+        {
+            "code": "D003",
+            "name": "Mechanical Engineering"
+        },
+        {
+            "code": "D004",
+            "name": "Civil Engineering"
+        },
+        {
+            "code": "D005",
+            "name": "Electronics and Communication Engineering"
+        }
+    ]
+}
